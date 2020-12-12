@@ -1,1 +1,0 @@
-# globalacc-pynews
